@@ -28,6 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+My autolayout work didn't function initially. I had to eventually restart from scratch. I now understand the type of conflict to avoid.
 
 ## License
 
